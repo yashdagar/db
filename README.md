@@ -7,7 +7,7 @@ A from-scratch implementation of a simple relational database management system 
 
 ## Goals
 
-- [ ] **REPL** - Interactive command-line interface
+- [x] **REPL** - Interactive command-line interface
 - [ ] **SQL Compiler** - Parses and executes SQL-like queries
 - [ ] **B+ Trees** - For effective indexing of tables
 - [ ] **Transaction Management** - ACID transactions
